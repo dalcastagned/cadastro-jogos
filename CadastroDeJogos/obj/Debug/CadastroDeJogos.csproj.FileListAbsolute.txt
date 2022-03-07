@@ -1,0 +1,8 @@
+F:\DEV\Challenges\Challenge 34 - Cadastro de Jogos\CadastroDeJogos\CadastroDeJogos\bin\Debug\CadastroDeJogos.exe.config
+F:\DEV\Challenges\Challenge 34 - Cadastro de Jogos\CadastroDeJogos\CadastroDeJogos\bin\Debug\CadastroDeJogos.exe
+F:\DEV\Challenges\Challenge 34 - Cadastro de Jogos\CadastroDeJogos\CadastroDeJogos\bin\Debug\CadastroDeJogos.pdb
+F:\DEV\Challenges\Challenge 34 - Cadastro de Jogos\CadastroDeJogos\CadastroDeJogos\obj\Debug\CadastroDeJogos.csproj.AssemblyReference.cache
+F:\DEV\Challenges\Challenge 34 - Cadastro de Jogos\CadastroDeJogos\CadastroDeJogos\obj\Debug\CadastroDeJogos.csproj.SuggestedBindingRedirects.cache
+F:\DEV\Challenges\Challenge 34 - Cadastro de Jogos\CadastroDeJogos\CadastroDeJogos\obj\Debug\CadastroDeJogos.csproj.CoreCompileInputs.cache
+F:\DEV\Challenges\Challenge 34 - Cadastro de Jogos\CadastroDeJogos\CadastroDeJogos\obj\Debug\CadastroDeJogos.exe
+F:\DEV\Challenges\Challenge 34 - Cadastro de Jogos\CadastroDeJogos\CadastroDeJogos\obj\Debug\CadastroDeJogos.pdb

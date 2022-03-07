@@ -1,0 +1,1 @@
+## Projeto de cadastro de jogos feito com C# em modo console para praticar programação orientada a objetos
